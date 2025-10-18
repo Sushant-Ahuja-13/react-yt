@@ -1,0 +1,16 @@
+What is ReactJS -> It is a JS library used to make UI (complex frontEnd) formed by META in 2013 and most demanding
+skill now.
+To update somepart the whole website needed to be reloaded 
+React => component based architecture
+SPA -> single page application
+library -> used to give a feature to a website eg-> GSAP(moving animation) Lenis(Smooth Scrolling) ReactJS(UI)
+framework -> nextJS angular (all inbuilt is there and there is low customization in a framework)
+
+library -> own a plot and then build your house
+framework -> directly buy a flat or like and can do minimum changes
+
+RealDOM(Actual DOM here everything gets reloaded or rerender) VS VirtualDOM(Copy of RealDOM technically 1 or sometimes 2 to 3)
+VirtualDOM compares changes with the RealDOM and then reloaded the changed part only 
+this reduces work load of system and make the app faster
+
+JSX -> JavaScript XML (HTML + JavaScript)
