@@ -1,12 +1,11 @@
+import Card from "../../02-folder/src/components/card.jsx"
 function App() {
   return (
     <>
       <div id="dad">
-        <h2>Sushant Ahuja</h2>
+        <h2>fkejn Ahuja</h2>
       </div>
-      <div id="chacha">
-        <h2>Divya Malhotra</h2>
-      </div>
+      
     </>
   )
 }
